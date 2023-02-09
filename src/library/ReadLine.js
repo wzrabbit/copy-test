@@ -6,3 +6,5 @@ const rl = readline.createInterface({
 });
 
 module.exports = rl;
+
+const testcode = "TEST";
